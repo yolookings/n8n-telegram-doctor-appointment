@@ -44,6 +44,9 @@ The system is used for **Dr. Strange’s appointment scheduling**, with n8n acti
 **Workflow n8n:**
 ![work](/img/workflow.png)
 
+**Frontend Lovable Link:**
+https://telegramdoctor.lovable.app/
+
 ## Result
 
 The workflow successfully handles appointment requests from both **Telegram** and **Lovable frontend**, and processes them end-to-end without errors.
